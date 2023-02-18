@@ -1,0 +1,31 @@
+
+body{
+    color:bisque;
+    /**Ponerle color al fondo*/
+    background-color: rgb(209, 85, 120);
+    font-family: 'Jost', sans-serif;
+
+}
+p{
+ color: aquamarine;
+}
+
+h1{
+    color: rgb(168, 26, 144);
+    font-size: 60px;
+}
+h3{
+    color: rgb(236, 155, 233);
+}
+
+img{
+    width: 400px;/*Ancho*/
+    height: 200px;
+    padding: 20px;
+    margin: 10px;
+}
+footer {
+    background-color: rgb(190, 109, 228);
+    color: white;
+    padding:20px;
+}
